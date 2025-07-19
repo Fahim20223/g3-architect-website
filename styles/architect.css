@@ -129,6 +129,8 @@ main > section{
 .feature-card .feature-title{
     font-weight: 600px;
     font-size: 1.25rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
     
 }
 .feature-card{
